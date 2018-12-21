@@ -1,0 +1,25 @@
+{
+  "name": "fake-express",
+  "version": "1.0.0",
+  "description": "Mock express js objects with any test framework such as Jest or Sinon, chai and mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkjffrsn/FakeExpress.git"
+  },
+  "keywords": [
+    "mock",
+    "expressjs",
+    "express-request",
+    "express-response"
+  ],
+  "author": "Mark Jefferson Arthur",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mrkjffrsn/FakeExpress/issues"
+  },
+  "homepage": "https://github.com/mrkjffrsn/FakeExpress#readme"
+}
