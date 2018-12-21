@@ -1,6 +1,6 @@
 {
   "name": "fake-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mock express js objects with any test framework such as Jest or Sinon, chai and mocha",
   "main": "index.js",
   "scripts": {
